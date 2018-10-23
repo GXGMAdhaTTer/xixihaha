@@ -16,7 +16,7 @@
 #     return 'done'
 
 # fib(6)
-
+#maybe i can success today
 def triangles():
     s = [1]
     while True:
